@@ -57,8 +57,6 @@ while winner == 0:
             my_playing_field[i] = my_playing_field[i].replace(my_playing_field[i], f'{player}')
 
 
-        # print('This cell is occupied')
-
     playing_field = ''
 
     for i in my_playing_field:
