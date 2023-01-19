@@ -4,7 +4,7 @@
 # 5a3b4c -> aaaaabbbcccc
 
 with open('file1.txt', 'w', encoding = 'UTF-8') as data:
-    data.write('5a3b4c7d8f20h')
+    data.write('5a3b4c7d8f')
     
 
 with open('file1.txt', 'r', encoding = 'UTF-8') as data:
